@@ -1,7 +1,5 @@
 <div align="center" width="50">
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-
+<<img src="https://avatars.githubusercontent.com/u/252474451?s=400&u=0907807eebf9fa191b2e19cee6392746030e8051&v=4" alt="Profile Image" width="300">
 <details>
 <p><strong> <summary> Busy coding & Learning : </summary> </strong></p>
 

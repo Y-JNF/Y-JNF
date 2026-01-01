@@ -4,7 +4,7 @@
 <p><strong> <summary> Busy coding & Learning : </summary> </strong></p>
 
 🎧 Currently focusing on Computer Science studies and mastering **C++**
-# 👋 Hello, I'm F3INF
+# 👋 Hello, I'm Y-JNF
 
 ## 🧑‍🎓 About Me
 - 🎓 A university student majoring in **Computer Science**.  

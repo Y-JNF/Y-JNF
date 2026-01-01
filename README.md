@@ -1,5 +1,5 @@
 <div align="center" width="50">
-<<img src="https://avatars.githubusercontent.com/u/252474451?s=400&u=0907807eebf9fa191b2e19cee6392746030e8051&v=4" alt="Profile Image" width="300">
+<img src="https://avatars.githubusercontent.com/u/252474451?s=400&u=ecf5806a380c543002a38162f42091df8dd9ef8c&v=4" alt="Profile Image" width="300">
 <details>
 <p><strong> <summary> Busy coding & Learning : </summary> </strong></p>
 
